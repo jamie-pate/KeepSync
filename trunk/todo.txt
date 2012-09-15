@@ -1,0 +1,8 @@
+allow saving profiles
+allow more than one set of paths per profile (done)
+allow ftp/scp upload (to separate site) of all changed files on commit (runs scp atm)
+fix saving of ignore list
+
+allow pasting paths to be copied (from svn etc) 
+or
+add auto-sync to re-sync all recently modified files
